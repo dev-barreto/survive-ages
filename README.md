@@ -18,5 +18,5 @@ Não conheço muito bem o Java, mas tenho muito interesse em me adentrar a comun
 
 # Comunidade
 
-[Reddit Pessoal] (https://reddit.com/devbarreto)
+[Reddit Pessoal] (https://reddit.com/user/devbarreto)
 [Reddit Comunidade] (https://reddit.com/)
