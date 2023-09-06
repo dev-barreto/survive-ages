@@ -15,3 +15,8 @@ O principal ponto para mim desde mod seria o estudo, sempre tive interesse em cr
 Não conheço muito bem o Java, mas tenho muito interesse em me adentrar a comunidade de mods do Minecraft, tanto pela liberdade quanto pela usabilidade.
 
 ## .
+
+# Comunidade
+
+[Reddit Pessoal] (https://reddit.com/devbarreto)
+[Reddit Comunidade] (https://reddit.com/)
