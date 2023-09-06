@@ -1,6 +1,17 @@
 # Survive Through the Ages
-in development.
 
-The idea is to make the player go through all the ages; STONE, DISCOVER FIRE, GET SETTLE DOWN, FARMING, SOFT METAL ERA, START OF INDUSTRY, HARD METAL, COMPUTING, SPACE?
+EM DESENVOLVIMENTO
 
-I realy don't have any plans for now how this is gonna work, i'm just learning how to code, this is a project of study, thats all.
+# A Idéia do Projeto
+## Conceito
+
+O ponto principal do mod seria fazer com o jogo seja travado nos recipes de construção de blocos para que ele tenhe um objetivo para que a proxima era seja desbloqueada, sim já existe um modpack que faço isso e se chama "Age of Engineering" a questão é que esse modpack é muito voltado a tecnologia desde a segunda era.
+    
+Minha idéia seria de fazer algo mais lento em relação a tecnologia, passando pelas eras neoliticas, e ir escalonando até a era espacial.
+
+## Motivo
+
+O principal ponto para mim desde mod seria o estudo, sempre tive interesse em criar mods para jogos, já fiz alguns para jogos principalmente antigos, como pequenos patches de bugs ou pequenas traduções.
+Não conheço muito bem o Java, mas tenho muito interesse em me adentrar a comunidade de mods do Minecraft, tanto pela liberdade quanto pela usabilidade.
+
+## .
